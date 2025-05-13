@@ -14,7 +14,6 @@
 ## 📂 Proyectos destacados
 - 📈 [Análisis de Campañas Meta Ads para una Marca Ficticia]
 - 📊 [Dashboard de Rendimiento en Google Sheets conectado a Meta Ads]
-- 🧼 [Script en Python para limpieza de datos de campañas]
 
 ## 📬 Contacto
 - LinkedIn: linkedin.com/in/tabareverab/
